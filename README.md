@@ -46,9 +46,12 @@ Available Products:
    
 Error Handling:
 Prevents invalid product selection (e.g., product ID out of range)
+
 Ensures valid numeric input to avoid crashes.
+
 Displays an appropriate message if the cart is empty before checkout.
 
 Future Enhancements:
 Implementing a graphical user interface (GUI).
+
 Integrating a payment system. what is the error in the file
