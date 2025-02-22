@@ -24,9 +24,13 @@ How to Use:
 Run the application.
 Select an option from the menu:
 1 to view available products.
+
 2 to add a product to the cart (enter the product ID and quantity).
+
 3 to view the cart.
+
 4 to checkout and clear the cart.
+
 5 to exit the application.
 
 Example Output:
